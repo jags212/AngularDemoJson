@@ -1,0 +1,708 @@
+{
+    "2021": [
+        {
+            "disbursementType": "M",
+            "months": {
+                "0": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "1": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "2": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "3": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "disbursementType": "B",
+            "months": {
+                "0": {
+                    "hasWarnings": false,
+                    "amount": 277.5,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 277.5,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "1": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "2": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "3": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "4": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "disbursementType": "T",
+            "months": {
+                "0": {
+                    "hasWarnings": false,
+                    "amount": 555,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 555,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "1": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "2": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "3": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "4": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "2022": [
+        {
+            "disbursementType": "M",
+            "months": {
+                "0": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "1": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "2": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "3": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "4": {
+                    "hasWarnings": false,
+                    "amount": 866,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "L",
+                            "amount": 866,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "C",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "O",
+                            "categoryTypeCode": "O",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "A",
+                            "amount": 0,
+                            "warnings": []
+                        },
+                        {
+                            "frequencyTypeCode": "M",
+                            "categoryTypeCode": "R",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "disbursementType": "B",
+            "months": {
+                "0": {
+                    "hasWarnings": false,
+                    "amount": 277.5,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 277.5,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "1": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "2": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "3": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "4": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "B",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "disbursementType": "T",
+            "months": {
+                "0": {
+                    "hasWarnings": false,
+                    "amount": 555,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 555,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "1": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "2": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "3": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                },
+                "4": {
+                    "hasWarnings": false,
+                    "amount": 0,
+                    "items": [
+                        {
+                            "frequencyTypeCode": "S",
+                            "categoryTypeCode": "T",
+                            "amount": 0,
+                            "warnings": []
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
