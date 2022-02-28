@@ -13,7 +13,8 @@ export class AppComponent {
   assessResults?: { [key: string]: Array<AssessmentResult>; } | null;
   assessment?: Array<AssessmentResult>;
   assessmentResult?:AssessmentResult;
-  data:any;
+  data:any[] | undefined;
+  final:any;
   constructor(private httpClient: HttpClient) { }
   ngOnInit() {
     let mp = new Map();
@@ -29,13 +30,14 @@ export class AppComponent {
           const element = this.assessResults[key];
           this.assessment =  element;
           console.log(this.assessment);
-          this.data = JSON.stringify(this.assessment);
+          this.data?.push(this.assessment);
           // Object.entries(this.assessment).forEach((element) => {
           //   console.log(element[1]);
           //   //console.log(this.assessmentResult.disbursementType)    
           // })       
         } 
-      }      
+      } 
+      this.final = JSON.stringify(data);
     })
   }
 }
